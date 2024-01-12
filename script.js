@@ -1,0 +1,24 @@
+let main = document.getElementById("main");
+main.style.display = "flex";
+main.style.flexWrap = "wrap";
+main.style.justifyContent = "center";
+main.style.alignItems = "center";
+
+let div = document.getElementById("div");
+div.style.backgroundColor = "yellow";
+div.style.margin = "20px";
+div.style.padding = "10px";
+div.style.fontSize = "18px";
+div.style.fontWeight = "bold";
+div.style.height = "200px";
+div.style.width = "300px";
+div.style.display = "flex";
+div.style.flexWrap = "wrap";
+div.style.justifyContent = "center";
+div.style.alignItems = "center";
+div.style.fontFamily = "Brush Script MT, cursive";
+div.style.color = "blue";
+div.style.borderRadius = "28px";
+// div.style.border = "1px solid";
+div.style.borderColor = "black";
+div.style.boxShadow = "20px 20px 30px lightgray";
