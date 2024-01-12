@@ -2,6 +2,8 @@
 
 This project demonstrates how to dynamically style a div using the Document Object Model (DOM) in JavaScript. By manipulating the DOM, we can apply various styles to a div element, creating a dynamic and interactive user interface.
 
+Check out the live version [here](https://nareshkumarnandam.github.io/dom_1/)!
+
 ## Getting Started
 
 To view the hosted version of the project, follow these simple steps:
