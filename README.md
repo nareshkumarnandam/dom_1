@@ -11,11 +11,11 @@ To view the hosted version of the project, follow these simple steps:
 
 git clone https://github.com/nareshkumarnandam/dom_1.git
 
-## Navigate to the Project Directory:
+### Navigate to the Project Directory:
 
 cd dom_1
 
-## Open index.html in a Web Browser:
+### Open index.html in a Web Browser:
 
 Double-click on the index.html file, or
 Open it using your preferred web browser.
